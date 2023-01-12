@@ -1,3 +1,7 @@
+/******
+        #Written by professor Brian Borowski at Columbia University.
+******/
+
 import java.io.Serial;
 
 class StackException extends Exception {
