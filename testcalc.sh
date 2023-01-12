@@ -1,3 +1,8 @@
+/******
+        #Written by professor Brian Borowski at Columbia University.
+******/
+
+
 #!/bin/bash
 
 file=IntCalculator.java
