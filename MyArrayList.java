@@ -4,7 +4,8 @@ import java.util.Iterator;
 import java.util.List;
 /**
  * Resizable-array implementation of the MyList interface.
- * @author Brian S. Borowski
+ * @author Stephen Connelly Sjc2235 - Pop, Peek, Push methods
+ * @author Brian Borowski - All other methods
  * @version 1.0 September 27, 2022
  */
 public class MyArrayList<E> implements MyList<E>, MyStack<E> {
