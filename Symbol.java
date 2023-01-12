@@ -1,3 +1,7 @@
+/******
+        #Written by professor Brian Borowski at Columbia University.
+******/
+
 class Symbol {
     char character;
     int lineNumber, position;
