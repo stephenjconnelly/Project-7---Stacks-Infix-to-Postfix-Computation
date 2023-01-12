@@ -1,3 +1,8 @@
+/******
+        #Methods other than evaluatePostfix() and infixToPostfix()) are written by professor Brian Borowski at Columbia University.
+******/
+
+
 import java.util.Arrays;
 import java.util.HashMap;
 
