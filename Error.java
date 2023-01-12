@@ -1,3 +1,6 @@
+/******
+        #Written by professor Brian Borowski at Columbia University.
+******/
 class Error {
     int lineNumber, position;
     String message;
